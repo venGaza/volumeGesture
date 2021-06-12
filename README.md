@@ -1,14 +1,15 @@
 ### Volume Gesture
 
 #### Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Project Overview](#project-overview)
-- [Demo](#demo)
-- [Project Details](#project-details)
-  - [Language](#language)
-  - [Primary Modules](#primary-modules)
-  - [Design Thoughts](#design-thoughts)
-  - [Potential Use Cases](#potential-use-cases)
+- [Volume Gesture](#volume-gesture)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Demo](#demo)
+  - [Project Details](#project-details)
+    - [Language](#language)
+    - [Primary Modules](#primary-modules)
+    - [Design Thoughts](#design-thoughts)
+    - [Potential Use Cases](#potential-use-cases)
 
 #### Project Overview
 
@@ -16,7 +17,7 @@ Computer vision is a scientific field that allows the machine to develop an unde
 
 #### Demo
 
-<p align="center"><img src="../../images/portfolio/gifs/volumeControl.gif?raw=true" width="70%" height="70%"></p>
+<p align="center"><img src="volumeControl.gif?raw=true" width="70%" height="70%"></p>
   
 #### Project Details
 
